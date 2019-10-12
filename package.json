@@ -1,0 +1,22 @@
+{
+  "name": "mil-bootstrap.css",
+  "version": "1.0.0",
+  "description": "LitElement style template of Bootstrap css",
+  "main": "mil-bootstrap.min.css.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeInLagny/mil-bootstrap.css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madeInLagny/mil-bootstrap.css/issues"
+  },
+  "homepage": "https://github.com/madeInLagny/mil-bootstrap.css#readme",
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  }
+}
